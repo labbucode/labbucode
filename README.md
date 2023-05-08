@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on to improve my coding skills.<br><br>🌱 I’m currently learning Full Stack Development.<br><br>👯 I’m looking to collaborate on projects.<br><br>💬 Ask me about Frontend Development.<br><br>📫 How to reach me saiyyedlaraib@gmail.com.<br><br>⚡ Fun fact for Motivate myself I talk to myself by messaging in whatsapp.
+🔭 I’m currently working on to improve my coding skills.<br><br>🌱 I’m currently learning Full Stack Development.<br><br>👯 I’m looking to collaborate on projects.<br><br>💬 Ask me about Frontend Development.<br><br>📫 How to reach me saiyyedlaraib@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
