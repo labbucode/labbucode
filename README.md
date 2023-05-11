@@ -11,7 +11,7 @@
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false"/>
 </span>
 <span align="right" >
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img margin-left="10px" height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </span>
 
 # 💻 Tech Stack:
