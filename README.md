@@ -10,7 +10,7 @@
 <p align="left">
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false"/>
 </p>
-<p align="right">
+<p >
   <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
