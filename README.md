@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on to improve my coding skills.<br><br>🌱 I’m currently learning Full Stack Development.<br><br>💬 Ask me about Frontend Development.<br><br>📫 How to reach me saiyyedlaraib@gmail.com.<br>
+🔭 I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Frontend Development.<br>📫 How to reach me saiyyedlaraib@gmail.com.<br>
 
 # 📊 GitHub Stats:
 
