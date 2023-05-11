@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true"/>
+  <img height="156em" src="https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true"/>
 </p>
 <br>
 
