@@ -2,7 +2,7 @@
 🔭 I’m currently working on to improve my coding skills.<br><br>🌱 I’m currently learning Full Stack Development.<br><br>💬 Ask me about Frontend Development.<br><br>📫 How to reach me saiyyedlaraib@gmail.com.<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true)
+<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true)</p>
 ![](https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
