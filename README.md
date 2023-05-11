@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true"/>
+  <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true"/>
 </p>
 <br>
 
@@ -12,7 +12,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false"/>
 </span>
 <span align="right" >
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </span>
 
 
