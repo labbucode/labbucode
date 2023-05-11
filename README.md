@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=labbucode&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
