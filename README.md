@@ -4,10 +4,10 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/labbucode">
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=neerajkr17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajkr17&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark"/>
-</a>
+
+  <img height="156em" src="https://github-readme-streak-stats.herokuapp.com/?user=labbucode&theme=swift&hide_border=true"/>
+  
+
 </p>
 
 # 💻 Tech Stack:
